@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356254849361",
+    "project_id": "ecosight-79869",
+    "storage_bucket": "ecosight-79869.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356254849361:android:2fbd9cd0527e8872be5b70",
+        "android_client_info": {
+          "package_name": "com.example.togetherso_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4iqAJa1-g5bGjrBWLS1QbOiihkrQvpuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

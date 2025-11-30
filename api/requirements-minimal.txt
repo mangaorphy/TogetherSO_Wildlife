@@ -1,0 +1,10 @@
+# Minimal requirements with flexible versions
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+numpy
+librosa
+soundfile
+pydantic
+python-dotenv
